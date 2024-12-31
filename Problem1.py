@@ -9,3 +9,4 @@ with open(source_file_name, 'r') as source_file, open(target_file_name, 'w') as 
             target_file.write(line)
 f = open(target_file_name, "r")
 print("New text file:\n",f.read())
+ 
