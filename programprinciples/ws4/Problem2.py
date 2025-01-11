@@ -11,6 +11,7 @@ elif number == 2:
     print("0 1")
 elif number > 2:
     total_loops = number-2
+    print(total_loops)
     count = 1# indicate number of loops we have executed so far
     count_2 = 2# indicate number of numbers being printed
     x1 = 0
